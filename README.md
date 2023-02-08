@@ -106,7 +106,9 @@
 
 Cooking! Check out my <a href="https://github.com/parktart/recipe-blog-site">recipe-blog-site repo</a> for a mock food blog featuring all my own photos! Here is the <a href="https://parktart.github.io/recipe-blog-site/">live page</a>. Also ask me anything about cooking!
 
+## Reach Me 📫
 
+If you are looking for a proven problem-solver with the drive to constantly learn and adapt in order to achieve team goals, contact me! You can reach me at parkerschellenberg@gmail.com or message me on <a href= "https://www.linkedin.com/in/parker-schellenberg/">LinkedIn</a>.
 
 <!--
     Table setup and inspo from michalosman/michalosman GitHub repo
