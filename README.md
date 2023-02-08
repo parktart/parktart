@@ -102,7 +102,7 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=parktart&&theme=react&&hide_border=true"
 />
 
-## Hobbies :stew:
+## Hobbies :stuffed_flatbread:
 
 <!--
     Table setup and inspo from michalosman/michalosman GitHub repo
