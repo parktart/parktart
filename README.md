@@ -102,6 +102,7 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=parktart&&theme=react&&hide_border=true"
 />
 
+## Hobbies :stew:
 
 <!--
     Table setup and inspo from michalosman/michalosman GitHub repo
@@ -128,7 +129,6 @@
     https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg
     Jest
 -->
-
 
 <!--
 - 💬 Ask me about ... cooking!
