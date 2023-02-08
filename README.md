@@ -93,6 +93,16 @@
 </table>
 <!-- </center> -->
 
+## Stats 📈
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=parktart&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=parktart&&theme=react&&hide_border=true"
+/>
+
+
 <!--
 - 💬 Ask me about ... cooking!
 - 📫 How to reach me: ...
