@@ -104,6 +104,33 @@
 
 
 <!--
+    Table setup and inspo from michalosman/michalosman GitHub repo
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg
+    TypeScript
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+    React
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
+    Redux
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg
+    Material UI
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg
+    Bootstrap
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg
+    Express
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
+    MongoDB
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
+    PostgreSQL
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg
+    Firebase
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg
+    Npm
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg
+    Jest
+-->
+
+
+<!--
 - 💬 Ask me about ... cooking!
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
