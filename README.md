@@ -104,6 +104,10 @@
 
 ## Hobbies :stuffed_flatbread:
 
+Cooking! Check out my <a href="https://github.com/parktart/recipe-blog-site">recipe-blog-site repo</a> for a mock food blog featuring all my own photos! Here is the <a href="https://parktart.github.io/recipe-blog-site/">live page</a>. Also ask me anything about cooking!
+
+
+
 <!--
     Table setup and inspo from michalosman/michalosman GitHub repo
     https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg
