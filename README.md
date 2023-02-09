@@ -5,7 +5,7 @@
   My name is Parker and I'm a Chemical Engineer turned programmer! After gaining experience in roles like manufacturing and research, I'm now pursuing the passion I discovered while programming PLCs in undergrad. This passion is the driving force that excites me every single day to further expand my knowledge in the world of programming!
   </p>
   <p>
-  I recently completed <a href="https://www.theodinproject.com/">The Odin Project</a> Foundations, a 50-module open-source web development curriculum that teaches the fundamentals of building responsive websites using HTML, CSS, and JavaScript. I’m now looking to contribute as a <strong>Junior Developer</strong> on a team where I am challenged to constantly learn, grow, and refine my skills. 
+  I recently completed <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> Foundations, a 50-module open-source web development curriculum that teaches the fundamentals of building responsive websites using HTML, CSS, and JavaScript. I’m now looking to contribute as a <strong>Junior Developer</strong> on a team where I am challenged to constantly learn, grow, and refine my skills. 
   </p>
   <p>
   I'm now working on Odin's Full Stack JavaScript curriculum which goes further in depth with..
@@ -104,11 +104,11 @@
 
 ## Hobbies :stuffed_flatbread:
 
-Cooking! Check out my <a href="https://github.com/parktart/recipe-blog-site">recipe-blog-site repo</a> for a mock food blog featuring all my own photos! Here is the <a href="https://parktart.github.io/recipe-blog-site/">live page</a>. Also ask me anything about cooking!
+Cooking! Check out my <a href="https://github.com/parktart/recipe-blog-site" target="_blank">recipe-blog-site repo</a> for a mock food blog featuring all my own photos! Here is the <a href="https://parktart.github.io/recipe-blog-site/" target="_blank">live page</a>. Also ask me anything about cooking!
 
 ## Reach Me 📫
 
-If you are looking for a proven problem-solver with the drive to constantly learn and adapt in order to achieve team goals, contact me! You can reach me at parkerschellenberg@gmail.com or message me on <a href= "https://www.linkedin.com/in/parker-schellenberg/">LinkedIn</a>.
+If you are looking for a proven problem-solver with the drive to constantly learn and adapt in order to achieve team goals, contact me! You can reach me at parkerschellenberg@gmail.com or message me on <a href= "https://www.linkedin.com/in/parker-schellenberg/" target="_blank">LinkedIn</a>.
 
 <!--
     Table setup and inspo from michalosman/michalosman GitHub repo
