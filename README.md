@@ -12,6 +12,7 @@
   </p>
   <ul>
     <li>Node.js</li>
+    <li>React</li>
     <li>Express</li>
     <li>MongoDB</li>
     <li>APIs</li>
