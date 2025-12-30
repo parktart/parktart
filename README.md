@@ -10,36 +10,80 @@ I am truly excited to apply my innovation, problem-solving, and the many other p
 
 <!-- Table setup and inspo from michalosman/michalosman GitHub repo -->
 <table>
- <tr>
-  <td align="center" height="108" width="108">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML" />
-   <br /><strong>HTML5</strong>
-  </td>
-  <td align="center" height="108" width="108">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS3" />
-   <br /><strong>CSS3</strong>
-  </td>
-  <td align="center" height="108" width="108">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
-   <br /><strong>JavaScript</strong>
-  </td>
-  <td align="center" height="108" width="108">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-   <br /><strong>Node.js</strong>
-  </td>
-  <td align="center" height="108" width="108">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-   <br /><strong>Git</strong>
-  </td>
-  <td align="center" height="108" width="108">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="48" height="48" alt="Bash" />
-   <br /><strong>Bash</strong>
-  </td>
-  <td align="center" height="108" width="108">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="48" height="48" alt="Linux" />
-   <br /><strong>Linux</strong>
-  </td>
- </tr>
+    <tr>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48"
+                alt="HTML" />
+            <br /><strong>HTML5</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48"
+                alt="CSS3" />
+            <br /><strong>CSS3</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48"
+                height="48" alt="JavaScript" />
+            <br /><strong>JavaScript</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48"
+                height="48" alt="TypeScript" />
+            <br /><strong>TypeScript</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"
+                height="48" alt="React" />
+            <br /><strong>React</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48"
+                height="48" alt="Vite" />
+            <br /><strong>Vite</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48"
+                height="48" alt="Cypress" />
+            <br /><strong>Cypress</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48"
+                alt="Jest" />
+            <br /><strong>Jest</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"
+                height="48" alt="Node.js" />
+            <br /><strong>Node.js</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48"
+                height="48" alt="npm" />
+            <br /><strong>NPM</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"
+                alt="Git" />
+            <br /><strong>Git</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="48" height="48"
+                alt="Bash" />
+            <br /><strong>Bash</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="48" height="48"
+                alt="Linux" />
+            <br /><strong>Linux</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" width="48"
+                height="48" alt="Open API" />
+            <br /><strong>OpenAPI</strong>
+        </td>
+    </tr>
 </table>
 
 ## Hobbies :stuffed_flatbread:
@@ -51,29 +95,51 @@ Cooking! Check out my [recipe-blog-site repo](https://github.com/parktart/recipe
 If you are looking for a proven problem-solver with the drive to constantly learn and adapt in order to achieve team goals, contact me! You can reach me at <parkerschellenberg@gmail.com> or message me on [LinkedIn](https://www.linkedin.com/in/parker-schellenberg/).
 
 <!--
-	Table setup and inspo from michalosman/michalosman GitHub repo
-	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg
-	TypeScript
-	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-	React
-	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 	Redux
+	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
+
+    Material UI
 	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg
-	Material UI
+
+    Bootstrap
 	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg
-	Bootstrap
+
+    Express
 	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg
-	Express
+
+    MongoDB
 	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
-	MongoDB
+
+    PostgreSQL
 	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
-	PostgreSQL
+
+    Firebase
 	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg
-	Firebase
-	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg
-	Npm
-	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg
-	Jest
+
+    AWS
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg
+
+    Azure
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg
+
+    CSharp
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
+
+    .NET
+    https://github.com/devicons/devicon/blob/v2.17.0/icons/dot-net/dot-net-original.svg
+
+    MySQL
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg
+
+    Docker
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
+
+    Tailwind
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg
+
+    Zustand
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg
+
 -->
 
 <!--
